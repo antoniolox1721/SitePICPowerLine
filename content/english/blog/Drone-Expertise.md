@@ -1,8 +1,8 @@
 ---
 title: "Expanding Our Drone Expertise: Consultation with Industry Specialist"
 date: 2025-02-28T14:30:00+01:00
-image_webp: images/blog/drone-expert.webp
-image: images/blog/drone-expert.jpg
+image_webp: images/blog/edp-meeting.webp
+image: images/blog/edp-meeting.jpg
 author: João Henriques
 description: "Insights from our consultation with drone specialist Diogo Henrique, exploring current capabilities and innovation opportunities."
 ---
