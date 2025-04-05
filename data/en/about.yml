@@ -3,14 +3,14 @@ about:
   enable : true
   title : About Us
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-vector # themify icon pack : https://themify.me/themify-icons
+    title : Innovative Technology
+    content : We develop cutting-edge software that enables fully autonomous drone inspections of high-tension power lines, combining computer vision and advanced navigation algorithms.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-medall # themify icon pack : https://themify.me/themify-icons
+    title : Industry Expertise
+    content : Our team collaborates closely with power companies and drone specialists to create solutions that address real-world challenges in electricity infrastructure maintenance.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-loop # themify icon pack : https://themify.me/themify-icons
+    title : Sustainable Solutions
+    content : We're committed to improving power grid reliability while reducing environmental impact by replacing helicopter inspections with efficient, automated drone systems.

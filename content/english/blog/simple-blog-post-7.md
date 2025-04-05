@@ -1,18 +1,36 @@
 ---
-title: "Simple Blog Post"
-date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
-author: John Doe
-description : "This is meta description"
+title: "Expanding Our Drone Expertise: Consultation with Industry Specialist"
+date: 2025-02-28T14:30:00+01:00
+image_webp: images/blog/drone-expert.webp
+image: images/blog/drone-expert.jpg
+author: João Henriques
+description: "Insights from our consultation with drone specialist Diogo Henrique, exploring current capabilities and innovation opportunities."
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+# Drone Technology Deep Dive with Industry Expert
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+This week, our team had the valuable opportunity to meet with Diogo Henrique, a recognized expert in drone technology and operations. This consultation provided crucial insights that will shape our development approach for the EDP power line inspection project.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+## Current Landscape & Innovation Opportunities
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Diogo walked us through the existing drone capabilities in the market, helping us understand:
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+- The current state of autonomous flight systems
+- Software platforms dominating the industry
+- Specific sectors where innovation gaps exist
+
+This reality check was invaluable in helping us identify where our solution can truly bring something new to the table rather than reinventing existing technologies.
+
+## LIDAR Technology in Drone Operations
+
+A significant portion of our discussion focused on LIDAR (Light Detection and Ranging) technology and its applications in inspection operations. Diogo provided a comprehensive explanation of how this technology:
+
+- Creates precise 3D mappings of power lines and surrounding environments
+- Detects anomalies that might not be visible to traditional cameras
+- Functions effectively in various weather and lighting conditions
+
+## Looking Forward
+
+This consultation has considerably expanded our technical understanding and helped us narrow our innovation focus. We're now better equipped to develop a solution that leverages the best of current technology while addressing genuine gaps in the power line inspection process.
+
+Our next steps will involve integrating these insights into our development roadmap before our follow-up meeting with EDP.

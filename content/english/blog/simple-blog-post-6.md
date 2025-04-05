@@ -1,18 +1,26 @@
 ---
-title: "Simple Blog Post"
-date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-1.webp
-image: images/blog/blog-post-1.jpg
-author: Mark Dinn
-description : "This is meta description"
+title: "Kickoff Meeting with EDP: Exploring Drone Automation for Power Line Inspection"
+date: 2024-10-21T10:00:00+01:00
+image_webp: images/blog/drone-inspection.webp
+image: images/blog/drone-inspection.jpg
+author: António Alves
+description: "Our first meeting with EDP's engineer André Coelho to discuss automating drone inspections for high-tension power lines."
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+# EDP Partnership Begins: Revolutionizing Power Line Inspections
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+We're excited to announce the beginning of a promising collaboration with EDP! On October 21st, our team sat down with EDP engineer André Coelho to discuss how we can tackle some of the company's most pressing challenges.
 
-> Design is not just what it looks like and feels like. Design is how it works.
+## Key Insights from Our Meeting
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+During our productive discussion, we identified several opportunities where our technology could make a significant impact. The standout revelation? **The potential to make power line inspections faster and more cost-effective through automated drone operations.**
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Currently, EDP relies on professional drone pilots who aren't full-time employees, creating both scheduling constraints and additional expenses. Our proposed solution would automate drone flight paths, eliminating the need for specialized pilots while simultaneously reducing maintenance costs.
+
+## What's Next
+
+We've established a collaborative framework with EDP to develop the optimal solution. Our team will focus on creating an automated drone system specifically tailored for high-tension power line inspection.
+
+This partnership represents an exciting opportunity to apply cutting-edge drone technology to solve real-world infrastructure challenges. We look forward to working closely with EDP's engineering team to bring this vision to life.
+
+Stay tuned for more updates as this project develops!

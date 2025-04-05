@@ -1,26 +1,26 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/company-growth.webp
+  title : Our Expertise
+  subtitle : We combine cutting-edge technology with deep industry knowledge to deliver reliable, efficient inspection solutions.
+  content : Our multidisciplinary team brings together expertise in autonomous systems, computer vision, power infrastructure, and data analysis to create a comprehensive solution for the unique challenges of power line inspection.
+  image : images/about/drone-inspection-team.webp
   skill_item :
     # skill item loop
-    - name :  Business Development
-      percent : 90%
-      
-    # skill item loop
-    - name :  Analysis
-      percent : 70%
-      
-    # skill item loop
-    - name :  Design
-      percent : 80%
-      
-    - name :  IOS Development
+    - name : Autonomous Navigation Systems
       percent : 95%
       
     # skill item loop
-    - name :  Android Development
-      percent : 75%
+    - name : Computer Vision & AI
+      percent : 90%
+      
+    # skill item loop
+    - name : Power Infrastructure Knowledge
+      percent : 85%
+      
+    - name : Data Analysis & Reporting
+      percent : 92%
+      
+    # skill item loop
+    - name : Hardware Integration
+      percent : 88%

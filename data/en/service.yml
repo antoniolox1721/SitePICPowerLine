@@ -1,34 +1,34 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : Our Solutions
   service_item :
     # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Autonomous Flight Control
+      icon : ti-control-play # themify icon pack : https://themify.me/themify-icons
+      content : Our proprietary navigation system enables drones to autonomously follow power lines without manual piloting, even in challenging weather conditions and complex terrain.
       
     # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Real-Time Anomaly Detection
+      icon : ti-search # themify icon pack : https://themify.me/themify-icons
+      content : Advanced computer vision algorithms instantly identify issues such as damaged insulators, broken conductors, vegetation encroachment, and structural problems during flight.
       
     # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Comprehensive Reporting
+      icon : ti-files # themify icon pack : https://themify.me/themify-icons
+      content : Automated reports provide maintenance teams with detailed information about detected anomalies, including GPS coordinates, severity classifications, and recommended actions.
       
     # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Integration Services
+      icon : ti-plug # themify icon pack : https://themify.me/themify-icons
+      content : Our system seamlessly integrates with existing asset management platforms, ensuring that inspection data flows directly into your maintenance workflow without additional steps.
       
     # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Fleet Management
+      icon : ti-server # themify icon pack : https://themify.me/themify-icons
+      content : Coordinate multiple drones simultaneously with our intelligent scheduling system, optimizing inspection routes and maximizing coverage while minimizing operational costs.
       
     # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Training & Support
+      icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
+      content : Comprehensive training for your team and ongoing technical support ensure smooth implementation and operation of our autonomous drone inspection system.

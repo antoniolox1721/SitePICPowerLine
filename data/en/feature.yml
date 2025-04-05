@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : "Autonomous Drone Inspection for Power Lines"
+  content : "Our solution automates the inspection and maintenance of high-tension electrical transmission lines, improving safety, reducing costs, and increasing inspection frequency and accuracy."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Real-Time Anomaly Detection
+      icon : ti-eye # themify icon pack : https://themify.me/themify-icons
+      content : Our system uses advanced computer vision to detect damaged cables, compromised structures, and other hazards in real-time during inspections.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Fully Autonomous Navigation
+      icon : ti-map-alt # themify icon pack : https://themify.me/themify-icons
+      content : Drones follow pre-programmed routes without requiring human pilots, making the process safer and more efficient than traditional methods.
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Cost Reduction
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      content : By eliminating the need for helicopter flights and specialized drone pilots, our solution significantly reduces operational expenses for power companies.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Environmental Impact
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Replacing helicopter inspections with automated drones reduces carbon emissions while maintaining or improving the quality of power line monitoring.

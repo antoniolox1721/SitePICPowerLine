@@ -4,9 +4,9 @@ team:
   title : Our Team
   team_member :
     # team member loop
-    - name : Abul Mal Muhit
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
+    - name : António Alves
+      image_webp : images/team/Antonio.webp
+      image : images/team/Antonio.jpg
       designation : CEO/Founder
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
@@ -20,9 +20,9 @@ team:
           link : "#"
         
     # team member loop
-    - name : Frank Miller
-      image_webp : images/team/team-2.webp
-      image : images/team/team-2.jpg
+    - name : Henrique Martins
+      image_webp : images/team/Henriques.webp
+      image : images/team/Henriques.jpg
       designation : Manager
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
@@ -36,9 +36,9 @@ team:
           link : "#"
         
     # team member loop
-    - name : Michael Jonson
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
+    - name : Luís Almeida
+      image_webp : images/team/Luis.webp
+      image : images/team/Luis.jpg
       designation : Web Developer
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
@@ -52,10 +52,42 @@ team:
           link : "#"
         
     # team member loop
-    - name : Mo. Kha. Alamgir
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
+    - name : João Henriques
+      image_webp : images/team/Joao.webp
+      image : images/team/Joao.jpg
       designation : SEO Specialist
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+          
+    # team member loop
+    - name : Miguel Baia
+      image_webp : images/team/Miguel.webp  # You may want to use a different image
+      image : images/team/Miguel.jpg        # You may want to use a different image
+      designation : Drone Engineer
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+          
+    # team member loop
+    - name : Ricardo Nobre
+      image_webp : images/team/Ricardo.webp  # You may want to use a different image
+      image : images/team/Ricardo.jpg        # You may want to use a different image
+      designation : Software Developer
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
