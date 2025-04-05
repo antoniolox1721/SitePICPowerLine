@@ -1,6 +1,6 @@
 ---
 title: "Strategic Direction: Consultation with Prof. Luis Caldas Oliveira"
-date: 2025-04-06T10:00:00+01:00
+date: 2025-04-04T10:00:00+01:00
 image_webp: images/blog/professor-meeting.webp
 image: images/blog/professor-meeting.jpg
 author: Henrique Martins

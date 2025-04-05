@@ -5,6 +5,7 @@ image_webp: images/blog/edp-meeting.webp
 image: images/blog/edp-meeting.jpg
 author: João Henriques
 description: "Insights from our consultation with drone specialist Diogo Henrique, exploring current capabilities and innovation opportunities."
+draft: false
 ---
 
 # Drone Technology Deep Dive with Industry Expert

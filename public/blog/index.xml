@@ -6,8 +6,22 @@
     <description>Recent content in Blogs on Meghna</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Mar 2025 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 14:30:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/meghna/examplesite/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Team Organization: Task Division and Implementation Timeline</title>
+      <link>http://localhost:1313/meghna/examplesite/blog/atasemanal/</link>
+      <pubDate>Sat, 05 Apr 2025 14:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/meghna/examplesite/blog/atasemanal/</guid>
+      <description>Organizing for Success: Our Implementation Roadmap Following our consultation with Prof. Caldas Oliveira, our team conducted an intensive planning session to establish clear roles, responsibilities, and a detailed weekly implementation schedule.</description>
+    </item>
+    <item>
+      <title>Strategic Direction: Consultation with Prof. Luis Caldas Oliveira</title>
+      <link>http://localhost:1313/meghna/examplesite/blog/lco-meeting/</link>
+      <pubDate>Fri, 04 Apr 2025 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/meghna/examplesite/blog/lco-meeting/</guid>
+      <description>Shaping Our Approach: Guidance from Prof. Luis Caldas Oliveira This week, our team had the privilege of meeting with our project guide, Prof.</description>
+    </item>
     <item>
       <title>Refining Our Vision: Follow-up Meeting with EDP</title>
       <link>http://localhost:1313/meghna/examplesite/blog/follow-up/</link>
@@ -17,9 +31,9 @@
     </item>
     <item>
       <title>Expanding Our Drone Expertise: Consultation with Industry Specialist</title>
-      <link>http://localhost:1313/meghna/examplesite/blog/drone-expertise/</link>
+      <link>http://localhost:1313/meghna/examplesite/blog/drone/</link>
       <pubDate>Fri, 28 Feb 2025 14:30:00 +0100</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/blog/drone-expertise/</guid>
+      <guid>http://localhost:1313/meghna/examplesite/blog/drone/</guid>
       <description>Drone Technology Deep Dive with Industry Expert This week, our team had the valuable opportunity to meet with Diogo Henrique, a recognized expert in drone technology and operations.</description>
     </item>
     <item>

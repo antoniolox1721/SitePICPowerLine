@@ -1,10 +1,11 @@
 ---
 title: "Team Organization: Task Division and Implementation Timeline"
-date: 2025-04-08T14:30:00+01:00
+date: 2025-04-05T14:30:00+01:00
 image_webp: images/blog/edp-meeting.webp
 image: images/blog/edp-meeting.jpg
 author: Luís Almeida
 description: "A detailed breakdown of our team's roles, responsibilities, and eight-week implementation plan for the PowerLine Drone inspection system."
+draft: false
 ---
 
 # Organizing for Success: Our Implementation Roadmap
