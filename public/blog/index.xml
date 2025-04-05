@@ -10,23 +10,23 @@
     <atom:link href="http://localhost:1313/meghna/examplesite/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Refining Our Vision: Follow-up Meeting with EDP</title>
-      <link>http://localhost:1313/meghna/examplesite/blog/simple-blog-post-8/</link>
+      <link>http://localhost:1313/meghna/examplesite/blog/follow-up/</link>
       <pubDate>Fri, 14 Mar 2025 09:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/blog/simple-blog-post-8/</guid>
+      <guid>http://localhost:1313/meghna/examplesite/blog/follow-up/</guid>
       <description>Project Specifications Take Shape in Second EDP Meeting We&amp;rsquo;re making significant progress in our collaboration with EDP!</description>
     </item>
     <item>
       <title>Expanding Our Drone Expertise: Consultation with Industry Specialist</title>
-      <link>http://localhost:1313/meghna/examplesite/blog/simple-blog-post-7/</link>
+      <link>http://localhost:1313/meghna/examplesite/blog/drone-expertise/</link>
       <pubDate>Fri, 28 Feb 2025 14:30:00 +0100</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/blog/simple-blog-post-7/</guid>
+      <guid>http://localhost:1313/meghna/examplesite/blog/drone-expertise/</guid>
       <description>Drone Technology Deep Dive with Industry Expert This week, our team had the valuable opportunity to meet with Diogo Henrique, a recognized expert in drone technology and operations.</description>
     </item>
     <item>
       <title>Kickoff Meeting with EDP: Exploring Drone Automation for Power Line Inspection</title>
-      <link>http://localhost:1313/meghna/examplesite/blog/simple-blog-post-6/</link>
+      <link>http://localhost:1313/meghna/examplesite/blog/meeting-edp/</link>
       <pubDate>Mon, 21 Oct 2024 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/meghna/examplesite/blog/simple-blog-post-6/</guid>
+      <guid>http://localhost:1313/meghna/examplesite/blog/meeting-edp/</guid>
       <description>EDP Partnership Begins: Revolutionizing Power Line Inspections We&amp;rsquo;re excited to announce the beginning of a promising collaboration with EDP!</description>
     </item>
   </channel>
