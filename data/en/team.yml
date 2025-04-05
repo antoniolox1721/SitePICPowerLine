@@ -1,100 +1,100 @@
 ############################### team ############################
 team:
   enable : true
-  title : Our Team
+  title : High Voltage Tower Inspection Team
   team_member :
     # team member loop
     - name : António Alves
       image_webp : images/team/Antonio.webp
       image : images/team/Antonio.jpg
       designation : CEO/Founder
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      content : Leading the development of advanced UI solutions and innovative drone inspection technologies. Responsible for creating sophisticated dashboards and real-time telemetry visualization.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-facebook
           link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-twitter-alt
           link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-linkedin
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-dribbble
           link : "#"
         
     # team member loop
     - name : Henrique Martins
       image_webp : images/team/Henriques.webp
       image : images/team/Henriques.jpg
-      designation : Manager
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : UI/UX Manager
+      content : Developing the core user interface with a focus on creating an intuitive and visually appealing application layout. Implementing simple UI components and color schemes.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-facebook
           link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-twitter-alt
           link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-linkedin
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-dribbble
           link : "#"
         
     # team member loop
     - name : Luís Almeida
       image_webp : images/team/Luis.webp
       image : images/team/Luis.jpg
-      designation : Web Developer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : Waypoints & Mission Specialist
+      content : Implementing the comprehensive waypoint system and automated inspection patterns. Responsible for mission planning and developing the functionality to revisit waypoints.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-facebook
           link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-twitter-alt
           link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-linkedin
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-dribbble
           link : "#"
         
     # team member loop
     - name : João Henriques
       image_webp : images/team/Joao.webp
       image : images/team/Joao.jpg
-      designation : SEO Specialist
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : Multimedia & Camera Expert
+      content : Managing drone camera controls, implementing real-time video feed, and developing advanced multimedia management capabilities for image and video capture.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-facebook
           link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-twitter-alt
           link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-linkedin
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-dribbble
           link : "#"
           
     # team member loop
     - name : Miguel Baia
-      image_webp : images/team/Miguel.webp  # You may want to use a different image
-      image : images/team/Miguel.jpg        # You may want to use a different image
-      designation : Drone Engineer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      image_webp : images/team/Miguel.webp
+      image : images/team/Miguel.jpg
+      designation : Drone Control Specialist
+      content : Establishing drone connectivity, implementing basic flight controls, and monitoring drone telemetry. Ensuring stable and secure drone operations during high-voltage tower inspections.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-facebook
           link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-twitter-alt
           link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-linkedin
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-dribbble
           link : "#"
           
     # team member loop
     - name : Ricardo Nobre
-      image_webp : images/team/Ricardo.webp  # You may want to use a different image
-      image : images/team/Ricardo.jpg        # You may want to use a different image
-      designation : Software Developer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      image_webp : images/team/Ricardo.webp
+      image : images/team/Ricardo.jpg
+      designation : QA & Documentation Lead
+      content : Developing comprehensive test plans, executing rigorous testing procedures, and creating detailed technical and user documentation for the drone inspection application.
       social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-facebook
           link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-twitter-alt
           link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-linkedin
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+        - icon : ti-dribbble
           link : "#"
