@@ -1,1 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors on PowerLine Drone</title><link>https://web.tecnico.ulisboa.pt/ist1107472/author/</link><description>Recent content in Authors on PowerLine Drone</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://web.tecnico.ulisboa.pt/ist1107472/author/index.xml" rel="self" type="application/rss+xml"/><item><title>António Alves</title><link>https://web.tecnico.ulisboa.pt/ist1107472/author/ant%C3%B3nio-alves/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://web.tecnico.ulisboa.pt/ist1107472/author/ant%C3%B3nio-alves/</guid><description>António is an Electrical and Computer Engineering student at Instituto Superior Técnico, passionate about embedded systems and user interface design.</description></item><item><title>Henrique Martins</title><link>https://web.tecnico.ulisboa.pt/ist1107472/author/henrique-martins/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://web.tecnico.ulisboa.pt/ist1107472/author/henrique-martins/</guid><description>Henrique is an Electrical and Computer Engineering student at Instituto Superior Técnico, specializing in human-machine interfaces and interaction design.</description></item><item><title>João Henriques</title><link>https://web.tecnico.ulisboa.pt/ist1107472/author/jo%C3%A3o-henriques/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://web.tecnico.ulisboa.pt/ist1107472/author/jo%C3%A3o-henriques/</guid><description>João is an Electrical and Computer Engineering student at Instituto Superior Técnico, specializing in multimedia systems and imaging technologies.</description></item><item><title>John Doe</title><link>https://web.tecnico.ulisboa.pt/ist1107472/author/john-doe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://web.tecnico.ulisboa.pt/ist1107472/author/john-doe/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description></item><item><title>Luís Almeida</title><link>https://web.tecnico.ulisboa.pt/ist1107472/author/lu%C3%ADs-almeida/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://web.tecnico.ulisboa.pt/ist1107472/author/lu%C3%ADs-almeida/</guid><description>Luís is an Electrical and Computer Engineering student at Instituto Superior Técnico, with a deep passion for autonomous systems navigation and robotics.</description></item><item><title>Mark Dinn</title><link>https://web.tecnico.ulisboa.pt/ist1107472/author/mark-dinn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://web.tecnico.ulisboa.pt/ist1107472/author/mark-dinn/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description></item><item><title>Miguel Baia</title><link>https://web.tecnico.ulisboa.pt/ist1107472/author/miguel-baia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://web.tecnico.ulisboa.pt/ist1107472/author/miguel-baia/</guid><description>Miguel is an Electrical and Computer Engineering student at Instituto Superior Técnico, with a profound interest in drone control systems and embedded electronics.</description></item><item><title>Ricardo Nobre</title><link>https://web.tecnico.ulisboa.pt/ist1107472/author/ricardo-nobre/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://web.tecnico.ulisboa.pt/ist1107472/author/ricardo-nobre/</guid><description>Ricardo is an Electrical and Computer Engineering student at Instituto Superior Técnico, specializing in software quality assurance and system reliability.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on PowerLine Drone</title>
+    <link>http://localhost:1313/ist1107472/author/</link>
+    <description>Recent content in Authors on PowerLine Drone</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/ist1107472/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>António Alves</title>
+      <link>http://localhost:1313/ist1107472/author/ant%C3%B3nio-alves/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ist1107472/author/ant%C3%B3nio-alves/</guid>
+      <description>António is an Electrical and Computer Engineering student at Instituto Superior Técnico, passionate about embedded systems and user interface design.</description>
+    </item>
+    <item>
+      <title>Henrique Martins</title>
+      <link>http://localhost:1313/ist1107472/author/henrique-martins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ist1107472/author/henrique-martins/</guid>
+      <description>Henrique is an Electrical and Computer Engineering student at Instituto Superior Técnico, specializing in human-machine interfaces and interaction design.</description>
+    </item>
+    <item>
+      <title>João Henriques</title>
+      <link>http://localhost:1313/ist1107472/author/jo%C3%A3o-henriques/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ist1107472/author/jo%C3%A3o-henriques/</guid>
+      <description>João is an Electrical and Computer Engineering student at Instituto Superior Técnico, specializing in multimedia systems and imaging technologies.</description>
+    </item>
+    <item>
+      <title>John Doe</title>
+      <link>http://localhost:1313/ist1107472/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ist1107472/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    <item>
+      <title>Luís Almeida</title>
+      <link>http://localhost:1313/ist1107472/author/lu%C3%ADs-almeida/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ist1107472/author/lu%C3%ADs-almeida/</guid>
+      <description>Luís is an Electrical and Computer Engineering student at Instituto Superior Técnico, with a deep passion for autonomous systems navigation and robotics.</description>
+    </item>
+    <item>
+      <title>Mark Dinn</title>
+      <link>http://localhost:1313/ist1107472/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ist1107472/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    <item>
+      <title>Miguel Baia</title>
+      <link>http://localhost:1313/ist1107472/author/miguel-baia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ist1107472/author/miguel-baia/</guid>
+      <description>Miguel is an Electrical and Computer Engineering student at Instituto Superior Técnico, with a profound interest in drone control systems and embedded electronics.</description>
+    </item>
+    <item>
+      <title>Ricardo Nobre</title>
+      <link>http://localhost:1313/ist1107472/author/ricardo-nobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ist1107472/author/ricardo-nobre/</guid>
+      <description>Ricardo is an Electrical and Computer Engineering student at Instituto Superior Técnico, specializing in software quality assurance and system reliability.</description>
+    </item>
+  </channel>
+</rss>

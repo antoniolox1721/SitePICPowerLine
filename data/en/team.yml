@@ -7,7 +7,7 @@ team:
     - name : António Alves
       image_webp : images/team/Antonio.webp
       image : images/team/Antonio.jpg
-      designation : CEO/Founder
+      designation : Core Systems Architect & Drone Control Specialist
       content : Leading the development of advanced UI solutions and innovative drone inspection technologies. Responsible for creating sophisticated dashboards and real-time telemetry visualization.
       social :
         - icon : ti-facebook
@@ -55,7 +55,7 @@ team:
     - name : João Henriques
       image_webp : images/team/Joao.webp
       image : images/team/Joao.jpg
-      designation : Multimedia & Camera Expert
+      designation : Multimedia & Camera Manager
       content : Managing drone camera controls, implementing real-time video feed, and developing advanced multimedia management capabilities for image and video capture.
       social :
         - icon : ti-facebook
@@ -71,7 +71,7 @@ team:
     - name : Miguel Baia
       image_webp : images/team/Miguel.webp
       image : images/team/Miguel.jpg
-      designation : Drone Control Specialist
+      designation : UI/UX Manager
       content : Establishing drone connectivity, implementing basic flight controls, and monitoring drone telemetry. Ensuring stable and secure drone operations during high-voltage tower inspections.
       social :
         - icon : ti-facebook
