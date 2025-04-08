@@ -3,7 +3,7 @@ feature:
   enable : true
   image : images/about/drone.jpg
   image_webp : images/about/drone.webp
-  title : "Autonomous Drone Inspection for Power Lines"
+  title : "Autonomous Drone Inspection for High Tension Power Lines"
   content : "Our solution automates the inspection and maintenance of high-tension electrical transmission lines, improving safety, reducing costs, and increasing inspection frequency and accuracy."
   feature_item : 
       # feature item loop

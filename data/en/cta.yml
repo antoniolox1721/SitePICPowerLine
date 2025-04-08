@@ -19,7 +19,7 @@ skill:
       percent : 80%
       
     - name :  IOS Development
-      percent : 95%
+      percent : 85%
       
     # skill item loop
     - name :  Android Development
