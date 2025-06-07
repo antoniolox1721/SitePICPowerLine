@@ -2,45 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on PowerLine Drone</title>
-    <link>http://localhost:1313/ist1107472/blog/</link>
+    <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/</link>
     <description>Recent content in Blogs on PowerLine Drone</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Apr 2025 14:30:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/ist1107472/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jun 2025 14:30:00 +0100</lastBuildDate>
+    <atom:link href="https://web.tecnico.ulisboa.pt/ist1107472/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Behind the Scenes: Creating Our Promotional Video</title>
+      <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/blog-post-7/</link>
+      <pubDate>Sun, 01 Jun 2025 14:30:00 +0100</pubDate>
+      <guid>https://web.tecnico.ulisboa.pt/ist1107472/blog/blog-post-7/</guid>
+      <description>From Field Footage to Final Cut: Our Promo Video Journey Following our successful demonstration at EDP, we&amp;rsquo;ve been hard at work transforming the raw footage into a compelling promotional video that showcases the real-world capabilities of our automated drone inspection system.</description>
+    </item>
+    <item>
+      <title>Prototype Testing at EDP: Real-World Validation Success</title>
+      <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/blog-post-6/</link>
+      <pubDate>Wed, 28 May 2025 10:15:00 +0100</pubDate>
+      <guid>https://web.tecnico.ulisboa.pt/ist1107472/blog/blog-post-6/</guid>
+      <description>Breakthrough at EDP: Prototype Demonstrates Real-World Capabilities This week marked a significant milestone for our project!</description>
+    </item>
+    <item>
+      <title>Live Video Feed Enhancement: Real-Time Inspection Monitoring</title>
+      <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/addedlivevideo/</link>
+      <pubDate>Sun, 18 May 2025 16:15:00 +0100</pubDate>
+      <guid>https://web.tecnico.ulisboa.pt/ist1107472/blog/addedlivevideo/</guid>
+      <description>Real-Time Monitoring: Enhanced Live Video System Our inspection platform now features a dramatically improved live video system thanks to the work of Luís Almeida.</description>
+    </item>
+    <item>
+      <title>Safety First: New Obstacle Avoidance System in Testing</title>
+      <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/addedobstacleavoidance/</link>
+      <pubDate>Thu, 15 May 2025 11:45:00 +0100</pubDate>
+      <guid>https://web.tecnico.ulisboa.pt/ist1107472/blog/addedobstacleavoidance/</guid>
+      <description>Enhancing Safety with Advanced Obstacle Avoidance Safety is always our top priority, which is why we&amp;rsquo;re excited to announce that António Alves has successfully implemented and tested a comprehensive obstacle avoidance system for our drone inspection platform.</description>
+    </item>
+    <item>
+      <title>Structural Data Organization: New Folder System Implemented</title>
+      <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/addedfolders/</link>
+      <pubDate>Mon, 12 May 2025 14:00:00 +0100</pubDate>
+      <guid>https://web.tecnico.ulisboa.pt/ist1107472/blog/addedfolders/</guid>
+      <description>Introducing Structure-Based Data Organization Our drone inspection application just got a major upgrade to its data management system!</description>
+    </item>
+    <item>
+      <title>New Feature: Enhanced Photo Gallery for Inspection Documentation</title>
+      <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/addedgallery/</link>
+      <pubDate>Fri, 09 May 2025 09:30:00 +0100</pubDate>
+      <guid>https://web.tecnico.ulisboa.pt/ist1107472/blog/addedgallery/</guid>
+      <description>Enhanced Photo Gallery for Drone Inspections We&amp;rsquo;re excited to announce a significant upgrade to our drone inspection platform!</description>
+    </item>
+    <item>
+      <title>Automatic Mission Resume: Streamlining Photo Verification Workflow</title>
+      <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/addedpopup/</link>
+      <pubDate>Wed, 07 May 2025 13:30:00 +0100</pubDate>
+      <guid>https://web.tecnico.ulisboa.pt/ist1107472/blog/addedpopup/</guid>
+      <description>Smarter Missions: Automatic Pause and Resume Feature We&amp;rsquo;ve made a significant improvement to the inspection workflow with our new automatic mission pause and resume functionality.</description>
+    </item>
+    <item>
+      <title>Meeting with Prof. Rita Cunha: IST Supports Drone Testing for Automation Project</title>
+      <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/atasemanal---05_05/</link>
+      <pubDate>Mon, 05 May 2025 10:00:00 +0100</pubDate>
+      <guid>https://web.tecnico.ulisboa.pt/ist1107472/blog/atasemanal---05_05/</guid>
+      <description>IST Collaboration Confirmed: Launching Drone Testing for Automation We&amp;rsquo;re thrilled to share a major step forward in our project!</description>
+    </item>
+    <item>
+      <title>Basic Flight Code Complete — Waypoint Missions Up Next</title>
+      <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/atasemanal---18_04/</link>
+      <pubDate>Fri, 18 Apr 2025 15:00:00 +0100</pubDate>
+      <guid>https://web.tecnico.ulisboa.pt/ist1107472/blog/atasemanal---18_04/</guid>
+      <description>Milestone Reached: Basic Flight Code Finalized We’ve officially wrapped up development of the basic drone flight controls — and we&amp;rsquo;re thrilled to share that the project is entering a new phase.</description>
+    </item>
+    <item>
+      <title>Choosing DJI Mobile SDK and Android Studio During Exam Season</title>
+      <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/atasemanal---10_04/</link>
+      <pubDate>Thu, 10 Apr 2025 14:00:00 +0100</pubDate>
+      <guid>https://web.tecnico.ulisboa.pt/ist1107472/blog/atasemanal---10_04/</guid>
+      <description>Pushing Forward: SDK &amp;amp; Development Environment Chosen During Exam Season Even with exams around the corner, our team made time to keep the project moving.</description>
+    </item>
     <item>
       <title>Team Organization: Task Division and Implementation Timeline</title>
-      <link>http://localhost:1313/ist1107472/blog/atasemanal/</link>
+      <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/atasemanal/</link>
       <pubDate>Sat, 05 Apr 2025 14:30:00 +0100</pubDate>
-      <guid>http://localhost:1313/ist1107472/blog/atasemanal/</guid>
+      <guid>https://web.tecnico.ulisboa.pt/ist1107472/blog/atasemanal/</guid>
       <description>Organizing for Success: Our Implementation Roadmap Following our consultation with Prof. Caldas Oliveira, our team conducted an intensive planning session to establish clear roles, responsibilities, and a detailed weekly implementation schedule.</description>
     </item>
     <item>
       <title>Strategic Direction: Consultation with Prof. Luis Caldas Oliveira</title>
-      <link>http://localhost:1313/ist1107472/blog/lco-meeting/</link>
+      <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/lco-meeting/</link>
       <pubDate>Fri, 04 Apr 2025 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/ist1107472/blog/lco-meeting/</guid>
+      <guid>https://web.tecnico.ulisboa.pt/ist1107472/blog/lco-meeting/</guid>
       <description>Shaping Our Approach: Guidance from Prof. Luis Caldas Oliveira This week, our team had the privilege of meeting with our project guide, Prof.</description>
     </item>
     <item>
       <title>Refining Our Vision: Follow-up Meeting with EDP</title>
-      <link>http://localhost:1313/ist1107472/blog/follow-up/</link>
+      <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/follow-up/</link>
       <pubDate>Fri, 14 Mar 2025 09:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/ist1107472/blog/follow-up/</guid>
+      <guid>https://web.tecnico.ulisboa.pt/ist1107472/blog/follow-up/</guid>
       <description>Project Specifications Take Shape in Second EDP Meeting We&amp;rsquo;re making significant progress in our collaboration with EDP!</description>
     </item>
     <item>
       <title>Expanding Our Drone Expertise: Consultation with Industry Specialist</title>
-      <link>http://localhost:1313/ist1107472/blog/drone/</link>
+      <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/drone/</link>
       <pubDate>Fri, 28 Feb 2025 14:30:00 +0100</pubDate>
-      <guid>http://localhost:1313/ist1107472/blog/drone/</guid>
+      <guid>https://web.tecnico.ulisboa.pt/ist1107472/blog/drone/</guid>
       <description>Drone Technology Deep Dive with Industry Expert This week, our team had the valuable opportunity to meet with Diogo Henrique, a recognized expert in drone technology and operations.</description>
     </item>
     <item>
       <title>Kickoff Meeting with EDP: Exploring Drone Automation for Power Line Inspection</title>
-      <link>http://localhost:1313/ist1107472/blog/meeting-edp/</link>
+      <link>https://web.tecnico.ulisboa.pt/ist1107472/blog/meeting-edp/</link>
       <pubDate>Mon, 21 Oct 2024 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/ist1107472/blog/meeting-edp/</guid>
+      <guid>https://web.tecnico.ulisboa.pt/ist1107472/blog/meeting-edp/</guid>
       <description>EDP Partnership Begins: Revolutionizing Power Line Inspections We&amp;rsquo;re excited to announce the beginning of a promising collaboration with EDP!</description>
     </item>
   </channel>

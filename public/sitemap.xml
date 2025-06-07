@@ -2,47 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ist1107472/blog/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/</loc>
+    <lastmod>2025-06-03T16:45:00+01:00</lastmod>
+  </url><url>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/</loc>
+    <lastmod>2025-06-03T16:45:00+01:00</lastmod>
+  </url><url>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/blog-post-7/</loc>
+    <lastmod>2025-06-01T14:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/blog-post-6/</loc>
+    <lastmod>2025-05-28T10:15:00+01:00</lastmod>
+  </url><url>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/addedlivevideo/</loc>
+    <lastmod>2025-05-18T16:15:00+01:00</lastmod>
+  </url><url>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/addedobstacleavoidance/</loc>
+    <lastmod>2025-05-15T11:45:00+01:00</lastmod>
+  </url><url>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/addedfolders/</loc>
+    <lastmod>2025-05-12T14:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/addedgallery/</loc>
+    <lastmod>2025-05-09T09:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/addedpopup/</loc>
+    <lastmod>2025-05-07T13:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/atasemanal---05_05/</loc>
+    <lastmod>2025-05-05T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/atasemanal---18_04/</loc>
+    <lastmod>2025-04-18T15:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/atasemanal---10_04/</loc>
+    <lastmod>2025-04-10T14:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/atasemanal/</loc>
     <lastmod>2025-04-05T14:30:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ist1107472/</loc>
-    <lastmod>2025-04-05T14:30:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ist1107472/blog/atasemanal/</loc>
-    <lastmod>2025-04-05T14:30:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ist1107472/blog/lco-meeting/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/lco-meeting/</loc>
     <lastmod>2025-04-04T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ist1107472/blog/follow-up/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/follow-up/</loc>
     <lastmod>2025-03-14T09:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ist1107472/blog/drone/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/drone/</loc>
     <lastmod>2025-02-28T14:30:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ist1107472/blog/meeting-edp/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/blog/meeting-edp/</loc>
     <lastmod>2024-10-21T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ist1107472/author/ant%C3%B3nio-alves/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/author/ant%C3%B3nio-alves/</loc>
   </url><url>
-    <loc>http://localhost:1313/ist1107472/author/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/author/</loc>
   </url><url>
-    <loc>http://localhost:1313/ist1107472/categories/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/ist1107472/author/henrique-martins/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/author/henrique-martins/</loc>
   </url><url>
-    <loc>http://localhost:1313/ist1107472/author/jo%C3%A3o-henriques/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/author/jo%C3%A3o-henriques/</loc>
   </url><url>
-    <loc>http://localhost:1313/ist1107472/author/john-doe/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/author/john-doe/</loc>
   </url><url>
-    <loc>http://localhost:1313/ist1107472/author/lu%C3%ADs-almeida/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/author/lu%C3%ADs-almeida/</loc>
   </url><url>
-    <loc>http://localhost:1313/ist1107472/author/mark-dinn/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/author/mark-dinn/</loc>
   </url><url>
-    <loc>http://localhost:1313/ist1107472/author/miguel-baia/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/author/miguel-baia/</loc>
   </url><url>
-    <loc>http://localhost:1313/ist1107472/author/ricardo-nobre/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/author/ricardo-nobre/</loc>
   </url><url>
-    <loc>http://localhost:1313/ist1107472/tags/</loc>
+    <loc>https://web.tecnico.ulisboa.pt/ist1107472/tags/</loc>
   </url>
 </urlset>
